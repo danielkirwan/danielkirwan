@@ -4,6 +4,8 @@
 
 I am a gameplay programmer at Halfbrick Studios. Recently released Age of Zombies, TapKO, Colossatron Cosmis Crisis, and Magic Brick Wars for both iOS and Android devices.
 
+I have two years professional experience with Unity and C#. I am currently working on a new game in my spare time which will be out later this year on Steam. 
+
 ---
 ### Main language
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
