@@ -69,7 +69,7 @@ I care deeply about **clean architecture, iteration speed, and performance**, es
 - 🌍 Website: https://www.dangrygames.uk  
 - 🕹️ Games & prototypes: https://dangrygames.itch.io  
 - ✍️ Blog: https://danielkirwan.medium.com  
-- 💼 LinkedIn: Daniel Kirwan
+- 💼 LinkedIn: [Daniel Kirwan](https://www.linkedin.com/in/daniel-kirwan-26b65911a/)
 
 ---
 
