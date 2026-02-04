@@ -1,4 +1,4 @@
-<img src="FullColor_1280x1024_300dpi.jpg" alt="Banner"/>
+<img src="FullColor_1280x1024_300dpi.jpg" alt="Banner" width="300" height="300"/>
 
 ## Hi, I’m Daniel 👋  
 **Unity / C# Tools & Gameplay Programmer**
@@ -8,25 +8,6 @@ I’m a Unity developer specialising in **gameplay systems, editor tooling, and 
 I’ve worked as a Gameplay Programmer at Halfbrick Studios and as a freelance tools & systems developer, rebuilding legacy systems, migrating backend services, and creating scalable Unity tools used across multiple projects.
 
 I care deeply about **clean architecture, iteration speed, and performance**, especially on mobile.
-
----
-
-## 🔧 What I specialise in
-
-- **Unity Tools & Editor Extensions**  
-  Custom inspectors, automation tools, editor workflows, build utilities
-
-- **Gameplay & Runtime Systems**  
-  Combat, waves, progression, upgrades, save/load, UI systems
-
-- **Performance & Production**  
-  Profiling, memory optimisation, mobile constraints, asset workflows
-
-- **Backend & Services**  
-  Multiplayer & cloud services (Heroic Labs Nakama), backend migrations
-
-- **Build Automation & CI**  
-  Batchmode builds, multi-platform pipelines, CI/CD, versioning
 
 ---
 
@@ -48,8 +29,25 @@ I care deeply about **clean architecture, iteration speed, and performance**, es
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ---
+## 🔧 What I specialise in
 
-## 📌 Featured Work (start here)
+- **Unity Tools & Editor Extensions**  
+  Custom inspectors, automation tools, editor workflows, build utilities
+
+- **Gameplay & Runtime Systems**  
+  Combat, waves, progression, upgrades, save/load, UI systems
+
+- **Performance & Production**  
+  Profiling, memory optimisation, mobile constraints, asset workflows
+
+- **Backend & Services**  
+  Multiplayer & cloud services (Heroic Labs Nakama), backend migrations
+
+- **Build Automation & CI**  
+  Batchmode builds, multi-platform pipelines, CI/CD, versioning
+
+---
+## 📌 Featured Work
 
 - **Unity Editor Tools & Automation**  
   Custom scene switchers, script generators, build utilities
@@ -59,9 +57,6 @@ I care deeply about **clean architecture, iteration speed, and performance**, es
 
 - **Build & CI Pipelines**  
   Automated multi-platform builds, versioning, deployment tooling
-
-(See pinned repositories below 👇)
-
 ---
 
 ## 🌐 Links
